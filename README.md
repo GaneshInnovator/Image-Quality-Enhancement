@@ -35,3 +35,7 @@ Download pretrained models from Google [Drive](https://drive.google.com/drive/fo
 
 python test.py
 
+
+## Results
+
+![baboon](https://github.com/GaneshInnovator/Image-Quality-Enhancement/assets/128501278/90a1cc91-fba3-49aa-941e-effb7e7499e1)
