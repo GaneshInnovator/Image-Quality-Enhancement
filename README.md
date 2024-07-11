@@ -34,7 +34,7 @@ Place your own low-resolution images in the ./LR folder. There are four sample i
 
 ### Step 4: Download Pretrained Models
 
-Download pretrained models from Google [Drive](https://drive.google.com/drive/folders/1Lwd_RRcn5NGEARxKSi54LlWAkIvvDiTx?usp=sharing). Place the models in the ./models folder. We provide two models with high perceptual quality and high PSNR performance (see model list).
+Download pretrained models from Google [Drive](https://drive.google.com/drive/folders/1Lwd_RRcn5NGEARxKSi54LlWAkIvvDiTx?usp=sharing). Place the models in the ./models folder. We provide two models with high perceptual quality and high PSNR performance.
 
 ### Step 5: Run the Test
 
