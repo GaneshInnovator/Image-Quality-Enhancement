@@ -1,6 +1,5 @@
 # Image-Quality-Enhancement
 
-# ESRGAN
 
 Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN) implementation.
 
@@ -27,7 +26,7 @@ pip install numpy opencv-python
 ### Step 2: Clone the repository
 
 git clone https://github.com/GaneshInnovator/Image-Quality-Enhancement.git
-cd ESRGAN
+cd Image-Quality-Enhancement
 
 ### Step 3: Prepare Input Images
 
@@ -35,7 +34,7 @@ Place your own low-resolution images in the ./LR folder. There are four sample i
 
 ### Step 4: Download Pretrained Models
 
-Download pretrained models from Google Drive. Place the models in the ./models folder. We provide two models with high perceptual quality and high PSNR performance (see model list).
+Download pretrained models from Google [Drive](https://drive.google.com/drive/folders/1Lwd_RRcn5NGEARxKSi54LlWAkIvvDiTx?usp=sharing). Place the models in the ./models folder. We provide two models with high perceptual quality and high PSNR performance (see model list).
 
 ### Step 5: Run the Test
 
