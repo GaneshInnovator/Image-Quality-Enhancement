@@ -3,11 +3,6 @@
 
 Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN) implementation.
 
-## Table of Contents
-
-- [Quick Test](#quick-test)
-- [Dependencies](#dependencies)
-- [Test Models](#test-models)
 
 ## Quick Test
 
