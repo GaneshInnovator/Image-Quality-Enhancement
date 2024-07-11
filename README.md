@@ -18,9 +18,9 @@ You can install the required Python packages using pip:
 ```
 pip install numpy opencv-python
 ```
-### Step 2: Clone the repository
+### Step 2: Clone the Repository
 ```
-git clone https://github.com/GaneshInnovator/Image-Quality-Enhancement.git <br>
+git clone https://github.com/GaneshInnovator/Image-Quality-Enhancement.git <br/>
 cd Image-Quality-Enhancement
 ```
 ### Step 3: Prepare Input Images
