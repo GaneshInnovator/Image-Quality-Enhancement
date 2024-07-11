@@ -22,12 +22,12 @@ Ensure you have the following dependencies installed:
 
 You can install the required Python packages using pip:
 
-```bash
+'''bash
 pip install numpy opencv-python
 
 ### **Step 2: Clone the repository**
 
-```bash
+'''bash
 git clone https://github.com/xinntao/ESRGAN
 cd ESRGAN
 
@@ -41,6 +41,6 @@ Download pretrained models from Google Drive. Place the models in the ./models f
 
 ### Step 5: Run the Test
 
-```bash
+'''bash
 python test.py
 
